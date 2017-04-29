@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-console-app-logging-playground",
+  "version": "0.0.0",
+  "description": "NodejsConsoleAppLoggingPlayground",
+  "main": "app.js",
+  "author": {
+    "name": "hinte_000"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.18.1",
+    "scribe-js": "^2.0.4"
+  }
+}
